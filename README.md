@@ -1,0 +1,1 @@
+# trainingQGIS_v2
